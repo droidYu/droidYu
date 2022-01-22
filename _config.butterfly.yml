@@ -4,7 +4,66 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   关于: /about/ || fas fa-heart
-disable_top_img: true
+# Typewriter Effect (打字效果)
+# https://github.com/disjukr/activate-power-mode
+activate_power_mode:
+  enable: true
+  colorful: true # open particle animation (冒光特效)
+  shake: false #  open shake (抖動特效)
+  mobile: false
+local_search: 
+  enable: true
+search:
+  path: search.xml
+  field: post
+  content: true
+  template: ./search.xml
+theme_color:
+  enable: true
+  main: "#226274"
+preloader: true
+instantpage: false
+readmode: false
+pangu:
+  enable: false
+  field: post # site/post
+index_img: /img/bg.jpeg
+footer_bg: true
+beautify:
+  enable: true
+  field: site # site/post
+  title-prefix-icon: '\f0c1'
+  title-prefix-icon-color: "#F47466"
+canvas_nest:
+  enable: true
+  color: '34,98,116' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+  opacity: 0.7 # the opacity of line (0~1), default: 0.5.
+  zIndex: -1 # z-index property of the background, default: -1.
+  count: 199 # the number of lines, default: 99.
+  mobile: false # false 手機端不顯示 true 手機端顯示
+fireworks:
+  enable: true
+  zIndex: 9999 # -1 or 9999
+  mobile: false
+subtitle:
+  enable: true
+  # Typewriter Effect (打字效果)
+  effect: true
+  # loop (循環打字)
+  loop: true
+  # source 調用第三方服務
+  # source: false 關閉調用
+  # source: 1  調用一言網的一句話（簡體） https://hitokoto.cn/
+  # source: 2  調用一句網（簡體） http://yijuzhan.com/
+  # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
+  # subtitle 會先顯示 source , 再顯示 sub 的內容
+  source: false
+  # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
+  sub:
+    - 梦想总要有，万一实现了呢
+    - 一条爱捣鼓Android的咸鱼
+avatar:
+  img: /img/avatar.png
 aside:
   enable: true
   hide: false

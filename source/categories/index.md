@@ -1,4 +1,5 @@
 ---
 title: 分类
 date: 2022-01-21 16:08:19
+type: "categories"
 ---
