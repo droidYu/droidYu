@@ -10,6 +10,14 @@ author: droidYu
 language: zh-CN
 timezone: ''
 
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
+baidusitemap:
+  path: baidusitemap.xml
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://droidyu.github.io/
