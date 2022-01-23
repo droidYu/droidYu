@@ -21,13 +21,13 @@ search:
 theme_color:
   enable: true
   main: "#226274"
-preloader: true
-instantpage: false
-readmode: false
+preloader: true #加载动画
+instantpage: false #预加载页面
+readmode: false #阅读模式
 pangu:
   enable: false
   field: post # site/post
-index_img: /img/bg.jpeg
+index_img: https://pic.imgdb.cn/item/61ed09222ab3f51d91123705.jpg
 footer_bg: true
 beautify:
   enable: true
@@ -62,8 +62,9 @@ subtitle:
   sub:
     - 一条爱捣鼓Android的咸鱼
     - 梦想总要有，万一实现了呢
+    - 不积跬步，无以至千里
 avatar:
-  img: /img/avatar.png
+  img: https://pic.imgdb.cn/item/61ed09222ab3f51d91123700.png
 aside:
   enable: true
   hide: false
@@ -72,7 +73,7 @@ aside:
   position: right # left or right
   card_author:
     enable: true
-    description: 一条梦想进大厂的咸鱼
+    description: 一条有梦想的咸鱼
     button:
       enable: true
         icon：fab fa-github
