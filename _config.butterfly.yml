@@ -5,6 +5,9 @@ menu:
   分类: /categories/ || fas fa-folder-open
   关于: /about/ || fas fa-heart
 favicon: https://pic.imgdb.cn/item/61ed5e7a2ab3f51d916195d7.png
+runtimeshow:
+  enable: true
+  publish_date: 1/22/2022 00:00:00
 wordcount:
   enable: true
   post_wordcount: true
