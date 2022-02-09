@@ -7,7 +7,7 @@ cover:
 top_img: 
 ---
 
->**更多内容请关注我的个人博客：[droidYu](https://droidyu.github.io/)**
+>**学习更多知识，请关注我的个人博客：[droidYu](https://droidyu.github.io/)**
 
 >**关注我**
 > * 掘金：[droidYu](https://juejin.cn/user/2365804752143256)
