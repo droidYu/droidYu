@@ -1,5 +1,5 @@
 # Hi there 👋
-## 我是 [**droidYu**](https://droidyu.github.io/)，专注 Android 开发
+## 我是 [**droidYu**](https://droidyu.github.io/)，专注 [Android](https://github.com/droidYu/android-knowledge-system) 开发
 ## 偶尔研究 Flutter 和 HarmonyOS
 
 
