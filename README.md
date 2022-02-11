@@ -1,8 +1,7 @@
 # Hi there 👋
-## 我是 [**droidYu**](https://droidyu.github.io/)
+## 我是 [**droidYu**](https://droidyu.github.io/)，专注 Android 开发
+## 偶尔研究 Flutter 和 HarmonyOS
 
-* 不积跬步，无以至千里
-* 梦想总要有，万一实现了呢
 
 >**关注我，一起见证成长**
 > * 掘金：[droidYu](https://juejin.cn/user/2365804752143256)
