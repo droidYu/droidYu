@@ -1,7 +1,8 @@
-# Hi there 👋
+# Hi  👋
 ## 我是 [**droidYu**](https://droidyu.github.io/)，专注 [Android](https://github.com/droidYu/android-knowledge-system) 开发
 ## 偶尔研究 Flutter 和 HarmonyOS
 
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=droidYu&count_private=true&show_icons=true"/>
 
 >**关注我，一起见证成长**
 > * 掘金：[droidYu](https://juejin.cn/user/2365804752143256)
