@@ -1,6 +1,5 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 我是 [**droidYu**](https://droidyu.github.io/) 
 * **一个有梦想的 Android Coder**
-<img  alt="GIF" src="https://wkphoto.cdn.bcebos.com/3c6d55fbb2fb4316a0fa151930a4462308f7d3e8.jpg" width="500" height="320" />
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=droidYu&count_private=true&show_icons=true&bg_color=60,904e95,2196e3&theme=codeSTACKr"/>
 
 >**关注我，一起见证成长**
