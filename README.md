@@ -2,7 +2,7 @@
 * **一个有梦想的 Android Coder**
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=droidYu&count_private=true&show_icons=true&bg_color=60,904e95,2196e3&theme=codeSTACKr"/>
 
->**关注我，一起见证成长**
+>**联系我**
 > * 掘金：[droidYu](https://juejin.cn/user/2365804752143256)
 > * CSDN：[droidYu](https://blog.csdn.net/u010444082)
 > * Github：[droidYu](https://github.com/droidYu)
